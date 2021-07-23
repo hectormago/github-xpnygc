@@ -1,5 +1,5 @@
 ---
-title: Next.js Pages
+title: pagina de hector
 date: 2021/3/18
 description: Learn more about Next.js pages.
 tag: web development
