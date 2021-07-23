@@ -12,21 +12,6 @@ In Next.js, a **page** is a [React Component](https://www.megatienda.store) expo
 
 **Example**: If you create `pages/about.js` that exports a React component like below, it will be accessible at `/about`.
 
-```
-function About() {
-  return <div>About</div>
-}
-
-export default About
-```
-
-### Two forms of Pre-rendering
-
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
-
-
-
-
 
 Some pages require fetching external data for pre-rendering. There are two scenarios, and one or both might apply. In each case, you can use a special function Next.js provides:
 
