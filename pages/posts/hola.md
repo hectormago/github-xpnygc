@@ -1,12 +1,12 @@
 ---
-title: pagina de hector
+title: pagina de hector actualizado66
 date: 2021/3/18
 description: Learn more about Next.js pages.
 tag: web development
 author: You
 ---
 
-# es una pagina de hector
+# es una pagina de hector 66
 
 In Next.js, a **page** is a [React Component](https://www.megatienda.store) exported from a `.js`, `.jsx`, `.ts`, or `.tsx` file in the `pages` directory. Each page is associated with a route based on its file name.
 
